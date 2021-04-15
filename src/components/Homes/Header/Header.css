@@ -1,0 +1,28 @@
+.header-container {
+    height:100%;
+    width: 100%;
+    position:relative;
+    background-image: url(https://img1.goodfon.com/original/1366x768/4/53/stethoscope-heartbeat-red.jpg);
+    background-size: cover;
+    backdrop-filter: blur(6px);
+   
+}
+.header-container::after {
+    height:100%;
+    content:' ';
+    position: absolute;
+    top: 0;
+    width: 30%;
+    right: 0;
+    background-color: #3a4256be;
+    z-index: -50;
+    
+}
+.header-container::before{
+    opacity: 0.5;
+
+}
+
+.bg-main-header{
+    background-color: rgba(240, 248, 255, 0.685);
+}

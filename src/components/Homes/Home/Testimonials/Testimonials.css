@@ -1,0 +1,14 @@
+.testimonials .container{
+    background-image: url(https://www.joyceweiss.com/wp-content/uploads/2017/08/quotemarks-200x200.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 150px;
+}
+.testimonials .card{
+    border-color: transparent;
+}
+
+.testimonials .card .card-footer{
+    background: transparent;
+    border: 0;
+}

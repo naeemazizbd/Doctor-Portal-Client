@@ -1,0 +1,17 @@
+.footer-area{
+    background-image: url(https://i2.wp.com/nodens.eu/wp-content/uploads/2019/10/AdobeStock_281967200.jpeg?fit=8000%2C4000&ssl=1https://i2.wp.com/nodens.eu/wp-content/uploads/2019/10/AdobeStock_281967200.jpeg?fit=8000%2C4000&ssl=1);
+    background-size: cover;
+}
+
+.footer-area li{
+    padding-bottom: 10px;
+}
+
+.social-media .icon{
+    height: 40px;
+    width: 40px;
+    color: #ffffff;
+    border-radius: 50%;
+
+    padding: 10px;
+}
